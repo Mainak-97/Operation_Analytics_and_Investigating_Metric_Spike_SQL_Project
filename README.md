@@ -154,8 +154,8 @@ Advanced SQL
 -> Select Download ZIP to download the repository to your local machine.
 
 * Import the SQL Files:
--> The SQL dump file is included in the repository. Locate the SQL file in the extracted folder.
-Open MySQL Workbench.
+
+-> The SQL dump file is included in the repository. Locate the SQL file in the extracted folder. Open MySQL Workbench.
 
 -> Navigate to File > Open SQL Script and select the SQL file from the repository.
 
