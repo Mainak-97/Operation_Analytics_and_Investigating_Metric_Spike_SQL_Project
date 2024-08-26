@@ -59,42 +59,69 @@ Analyze user engagement metrics to investigate sudden changes and understand use
 ## Screenshots [Query + Outcome]
 
 ### Job data analysis
+### Job data analysis
+
 * Jobs Reviewed Over Time
+
 ![Query 1](https://i.imgur.com/IBtVocZ.jpeg)
 ![Outcome 1](https://i.imgur.com/OWnsC3A.jpeg)
+
+
 * Throughput Analysis
+
 ![Query 2](https://i.imgur.com/xX67Ui5.jpeg)
 ![Outcome 2](https://i.imgur.com/GewG6f1.jpeg)
+
+
 * Language Share Analysis
+
 ![Query 3](https://i.imgur.com/EfR990b.jpeg)
 ![Outcome 3](https://i.imgur.com/6YGostP.jpeg)
+
+
 * Duplicate Rows Detection
+
 ![Query 4](https://i.imgur.com/ZjKTCI1.jpeg)
 ![Outcome 4](https://i.imgur.com/KaU95au.jpeg)
 
+
+
 ### Investigating Metric Spike
+
 * Weekly User Engagement
+
 ![Query 1](https://i.imgur.com/IaAM201.jpeg)
 ![Outcome 1.1](https://i.imgur.com/izlctFm.jpeg)
 ![Outcome 1.2](https://i.imgur.com/RGk7OCC.jpeg)
+
+
 * User Growth Analysis
+
 ![Query 2](https://i.imgur.com/yCwNYy1.jpeg)
 ![Outcome 2](https://i.imgur.com/a5yiPnr.jpeg)
+
+
 * Weekly Retention Analysis
+
 ![Query 3.1](https://i.imgur.com/Z165VBo.jpeg)
 ![Query 3.2](https://i.imgur.com/P1PBsvH.jpeg)
 ![Query 3.3](https://i.imgur.com/OzodidS.jpeg)
 ![Outcome 3](https://i.imgur.com/nf6lkC3.jpeg)
+
+
 * Weekly Engagement Per Device
+
 ![Query 4.1](https://i.imgur.com/m5Xxhpv.jpeg)
 ![Query 4.2](https://i.imgur.com/2WdnaTd.jpeg)
 ![Outcome 4.1](https://i.imgur.com/yCiNCFG.jpeg)
 ![Outcome 4.2](https://i.imgur.com/Z1Nvw3t.jpeg)
 ![Outcome 4.3](https://i.imgur.com/3sSCwpH.jpeg)
+
+
 * Email Engagement Analysis
+
 ![Query 5](https://i.imgur.com/MLl15Q7.jpeg)
 ![Outcome 5](https://i.imgur.com/7rRvmEM.jpeg)
-
 
 
 ## Project Approach
