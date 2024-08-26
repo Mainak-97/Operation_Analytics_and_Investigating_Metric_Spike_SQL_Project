@@ -133,7 +133,8 @@ The approach to this project involved several key steps:
 * Result Interpretation: Interpreting the results of the queries to provide actionable insights.
 ### Author
 
-- Mainak Mukherjee 
+- Mainak Mukherjee
+
 Email: subha.mainak@gmail.com
 
 Linkedin: www.linkedin.com/in/mainakmukherjee08
@@ -142,7 +143,6 @@ Linkedin: www.linkedin.com/in/mainakmukherjee08
 * MySQL Workbench (Version 8.0.31)
 A graphical user interface that simplifies database management and querying.
 
-Provides tools for data modeling, SQL development, and server administration.
 
 ### Difficulty Level
 Advanced SQL
