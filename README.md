@@ -137,7 +137,7 @@ The approach to this project involved several key steps:
 
 Email: subha.mainak@gmail.com
 
-Linkedin: www.linkedin.com/in/mainakmukherjee08
+Linkedin: www.linkedin.com/in/mainak8
 
 ### Tech Stack
 * MySQL Workbench (Version 8.0.31)
